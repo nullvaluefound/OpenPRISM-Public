@@ -1,6 +1,6 @@
 # OpenPRISM — Public Releases
 
-Pre-built APK releases for **OpenPRISM**, an open-source Android app for Meta Ray-Ban Smart Glasses.
+Pre-built APK releases for **OpenPRISM**, an open-source Android app for Smart Glasses.
 
 ## Download
 
