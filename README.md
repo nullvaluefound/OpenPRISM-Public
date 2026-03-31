@@ -6,7 +6,8 @@ Pre-built APK releases for **OpenPRISM**, an open-source Android app for Meta Ra
 
 | Version | APK | Notes |
 |---|---|---|
-| **v0.2.0** | [OpenPRISM-v0.2.0.apk](OpenPRISM-v0.2.0.apk) | Dark theme with prismatic UI, live video streaming, photo capture, multi-platform streaming |
+| **v0.2.1** | [OpenPRISM-v0.2.1.apk](OpenPRISM-v0.2.1.apk) | Bugfix: all feature cards visible on home screen |
+| v0.2.0 | [OpenPRISM-v0.2.0.apk](OpenPRISM-v0.2.0.apk) | Dark theme with prismatic UI, live video streaming, photo capture, multi-platform streaming |
 
 ## Install
 
